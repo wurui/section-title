@@ -1,6 +1,10 @@
 {
   "name": "section-title",
   "version": "0.0.1",
-  "apiDependencies": null
+  "apiDependencies": [
+  	{
+  		"name":"ui-entry"
+  	}
+  ]
 }
 

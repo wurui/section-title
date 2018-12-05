@@ -14,5 +14,28 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
+        <ui-entry>
+            <i>
+                <title>本期精选</title>
+                <href>#qa</href>
+                <subtitle>更多»</subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>热门推荐</title>
+                <href>#biz</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>我的收藏</title>
+                <href>#about</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+        </ui-entry>
     </data>
 </root>
